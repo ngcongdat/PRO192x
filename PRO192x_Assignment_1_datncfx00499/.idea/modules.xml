@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai1-SoLonNhat.iml" filepath="$PROJECT_DIR$/Bai1-SoLonNhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai10-TongHop.iml" filepath="$PROJECT_DIR$/Bai10-TongHop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai2-TamGiac.iml" filepath="$PROJECT_DIR$/Bai2-TamGiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai3-SoLonNhatCuaMang.iml" filepath="$PROJECT_DIR$/Bai3-SoLonNhatCuaMang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai4-DaySoDaoNguoc.iml" filepath="$PROJECT_DIR$/Bai4-DaySoDaoNguoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai5-ChuoiDoiXung.iml" filepath="$PROJECT_DIR$/Bai5-ChuoiDoiXung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai6-DoDaiChuoi.iml" filepath="$PROJECT_DIR$/Bai6-DoDaiChuoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai7-SoSanh2Mang.iml" filepath="$PROJECT_DIR$/Bai7-SoSanh2Mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai8-TongGiaTri.iml" filepath="$PROJECT_DIR$/Bai8-TongGiaTri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai9-TinhThanhVN.iml" filepath="$PROJECT_DIR$/Bai9-TinhThanhVN.iml" />
+    </modules>
+  </component>
+</project>

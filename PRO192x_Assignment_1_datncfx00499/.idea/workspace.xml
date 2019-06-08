@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba164547-f714-4aef-bb99-03d6e89f960c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/Bai1-SoLonNhat/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai10-TongHop/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai2-TamGiac/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai3-SoLonNhatCuaMang/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai4-DaySoDaoNguoc/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai5-ChuoiDoiXung/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai6-DoDaiChuoi/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai7-SoSanh2Mang/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai8-TongGiaTri/bin/" />
+    <ignored path="$PROJECT_DIR$/Bai9-TinhThanhVN/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bai10-TongHop/src/bai10tonghop/Bai10TongHop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#Bai10TongHop#0" />
+                <element signature="method#exam9#0;class#Bai10TongHop#0" />
+                <element signature="method#exam8#0;class#Bai10TongHop#0" />
+                <element signature="method#exam7#0;class#Bai10TongHop#0" />
+                <element signature="method#exam6#0;class#Bai10TongHop#0" />
+                <element signature="method#exam5#0;class#Bai10TongHop#0" />
+                <element signature="method#exam4#0;class#Bai10TongHop#0" />
+                <element signature="method#exam3#0;class#Bai10TongHop#0" />
+                <element signature="method#exam2#0;class#Bai10TongHop#0" />
+                <element signature="method#exam1#0;class#Bai10TongHop#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Bai8-TongGiaTri/src/bai8tonggiatri/TongGiaTri.java" />
+        <option value="$PROJECT_DIR$/Bai10-TongHop/src/bai10tonghop/Bai10TongHop.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547486381162" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Bai10">
+    <configuration name="Bai10" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bai10tonghop.Bai10TongHop" />
+      <module name="Bai10-TongHop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai8-TongGiaTri" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bai8tonggiatri.TongGiaTri" />
+      <module name="Bai8-TongGiaTri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Bai10" />
+      <item itemvalue="Application.Bai8-TongGiaTri" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba164547-f714-4aef-bb99-03d6e89f960c" name="Default Changelist" comment="" />
+      <created>1547478880072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547478880072</updated>
+      <workItem from="1547478885646" duration="513000" />
+      <workItem from="1547479577510" duration="6795000" />
+      <workItem from="1547509871262" duration="1000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8308000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32850778" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32962137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Run" order="9" sideWeight="0.49946696" weight="0.26439232" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Bai3-SoLonNhatCuaMang/src/bai3solonnhatcuamang/Mang10SoNguyen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bai5-ChuoiDoiXung/src/bai5chuoidoixung/ChuoiDoiXung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bai7-SoSanh2Mang/src/bai7sosanh2mang/SoSanh2Mang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bai8-TongGiaTri/src/bai8tonggiatri/TongGiaTri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="e#343#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bai9-TinhThanhVN/src/bai9tinhthanhvn/TinhThanhVN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="95" column="9" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="95" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bai10-TongHop/src/bai10tonghop/Bai10TongHop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Bai10TongHop#0" />
+            <element signature="method#exam9#0;class#Bai10TongHop#0" />
+            <element signature="method#exam8#0;class#Bai10TongHop#0" />
+            <element signature="method#exam7#0;class#Bai10TongHop#0" />
+            <element signature="method#exam6#0;class#Bai10TongHop#0" />
+            <element signature="method#exam5#0;class#Bai10TongHop#0" />
+            <element signature="method#exam4#0;class#Bai10TongHop#0" />
+            <element signature="method#exam3#0;class#Bai10TongHop#0" />
+            <element signature="method#exam2#0;class#Bai10TongHop#0" />
+            <element signature="method#exam1#0;class#Bai10TongHop#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>Tiny Nguyễn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
